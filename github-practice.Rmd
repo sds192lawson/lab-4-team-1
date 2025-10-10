@@ -46,3 +46,7 @@ dim(pioneer_valley_2013)
 #Check the column names for pioneer_valley_2013.
 ncol(pioneer_valley_2013)
 ```
+
+```{r}
+#Grader: Well done!!
+```
